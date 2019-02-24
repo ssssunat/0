@@ -1,3 +1,1 @@
-# .ssh
-
-- `!.pub` - my first ssh key
+0
